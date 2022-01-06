@@ -4,11 +4,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me ejaazrkhan@gmail.com
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ejaazkhan)](https://git.io/streak-stats)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ejaazkhan&count_private=true&show_icons=true)
 
-![Ejaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejaazkhan&show_icons=true&theme=radical)
+![Ejaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejaazkhan&show_icons=true&theme=radical&count_private=true&show_icons=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejaazkhan&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejaazkhan&layout=compact&count_private=true&show_icons=true)
 
 <!---
 ejaazkhan/ejaazkhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
