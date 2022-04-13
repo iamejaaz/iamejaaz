@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ejaazkhan, @ejaazrkhan
+- 👋 Hi, I’m @ejaazkhan
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning PHP
 - 💞️ I’m looking to collaborate on ...
