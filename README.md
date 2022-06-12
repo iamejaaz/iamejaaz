@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me ejaazrkhan@gmail.com
 
+![](https://komarev.com/ghpvc/?username=ejaazkhan&color=blue)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ejaazkhan&count_private=true&show_icons=true)
 
 ![Ejaaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=ejaazkhan&show_icons=true&theme=radical&count_private=true&show_icons=true)
