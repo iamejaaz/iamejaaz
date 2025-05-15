@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning PHP, Python
 - 💞️ I’m looking to collaborate on Opensource Projects
-- 📫 Reach me ejaazrkhan@gmail.com
+- 📫 Reach me 
   - [Linkedin](https://www.linkedin.com/in/ejaaz-khan)
 
 ![](https://komarev.com/ghpvc/?username=iamejaaz&color=blue)
