@@ -5,9 +5,11 @@
 - 📫 Reach me 
   - [Linkedin](https://www.linkedin.com/in/ejaaz-khan)
 
-![](https://komarev.com/ghpvc/?username=iamejaaz&color=blue)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=iamejaaz&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
+[![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=iamejaaz&theme=github-compact&hide_border=true&area=true)](https://github.com/iamejaaz)
+
+![](https://komarev.com/ghpvc/?username=iamejaaz&color=blue)
 
 
 <!---
