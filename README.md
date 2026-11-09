@@ -7,6 +7,8 @@
 
 ![](https://komarev.com/ghpvc/?username=iamejaaz&color=blue)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamejaaz&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
+
 
 <!---
 iamejaaz/iamejaaz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
